@@ -22,6 +22,17 @@ Your mission: gather all the information and report back.
 
 ## Screenshots:
 
+![alt text](https://github.com/Ladydiana/VRSpaceMuseum/blob/master/Screenshots_APK/Screenshot_APP_1.png)
+
+![alt text](https://github.com/Ladydiana/VRSpaceMuseum/blob/master/Screenshots_APK/Screenshot_APP_4.png)
+
+![alt text](https://github.com/Ladydiana/VRSpaceMuseum/blob/master/Screenshots_APK/Screenshot_APP_5.png)
+
+![alt text](https://github.com/Ladydiana/VRSpaceMuseum/blob/master/Screenshots_GV/Screenshot_GV_10.PNG)
+
+![alt text](https://github.com/Ladydiana/VRSpaceMuseum/blob/master/Screenshots_GV/Screenshot_GV_6.PNG)
+
+![alt text](https://github.com/Ladydiana/VRSpaceMuseum/blob/master/Screenshots_GV/Screenshot_GV_11.PNG)
 
 
 
